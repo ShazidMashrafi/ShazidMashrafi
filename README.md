@@ -31,13 +31,6 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 </p>
 </br>
 
-## Contribution Graph
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ShazidMashrafi&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
-</p>
-
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
