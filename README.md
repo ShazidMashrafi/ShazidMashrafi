@@ -1,5 +1,5 @@
 </p align="center">
-<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello There!!</h2>
+<h2 align="center">Hello There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <h3 align="center">It's Shazid, full name being Shazid Mashrafi.</h3>
 <h4 align="center">I'm a student, studying Computer Science and Engineering...</h4>
 
