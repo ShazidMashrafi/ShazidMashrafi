@@ -2,7 +2,7 @@
 
 My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
 
-## Find me on-
+### Find me on-
 -[My website](https://shazidmashrafi.com)
 
 ## Stats
