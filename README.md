@@ -6,16 +6,14 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShazidMashrafi&color=brightgreen&style=flat" alt="ShazidMashrafi" /><br></p>
 
-[![@shazidmashrafi's Holopin badge](https://holopin.me/shazidmashrafi)](https://holopin.io/@shazidmashrafi)
-
 ## Stats
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&custom_title=Github+Stats&show_icons=true&theme=dark&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&custom_title=Github&show_icons=true&theme=dark&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
 </a>
 <p href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&layout=compact&theme=dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime&layout=compact&theme=dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </p>
 </br>
 
