@@ -1,11 +1,7 @@
-</p align="center">
-<h2 align="center">Hello There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<h3 align="center">It's Shazid Mashrafi.</h3>
-<h4 align="center">I'm a student, studying Computer Science and Engineering...</h4>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
+My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life and writing blogs. I'm from Mymensingh,Bangladesh.You can visit [My Website](https://shazidmashrafi.com/). You can also find me on 
 <br>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ShazidMashrafi&color=brightgreen&style=flat" alt="ShazidMashrafi" /><br></p>
 
 ## Stats
 
