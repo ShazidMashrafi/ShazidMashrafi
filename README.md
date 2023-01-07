@@ -1,8 +1,9 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life and writing blogs. I'm from Mymensingh,Bangladesh.You can visit [My Website](https://shazidmashrafi.com/). You can also find me on 
-<br>
+My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life and writing blogs. I'm from Mymensingh,Bangladesh.
 
+## Find me on-
+-[My website](https://shazidmashrafi.com/)
 ## Stats
 
 <br>
@@ -35,3 +36,33 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ShazidMashrafi&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
 </p>
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
