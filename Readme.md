@@ -35,7 +35,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=github_dark)
 
 ### Streak
 
