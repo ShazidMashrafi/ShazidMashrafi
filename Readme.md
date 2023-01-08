@@ -30,16 +30,12 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shazidmashrafi&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <a href="https://wakatime.com/@shazidmashrafi">
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </a>
 
 ### Languages
 
-<br>
-<a href="https://github.com/ShazidMashrafi/ShazidMashrafi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi)
 
 ### Streak
 
