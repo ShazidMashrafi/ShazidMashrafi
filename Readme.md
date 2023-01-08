@@ -4,7 +4,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 
 
-###  🛠 &nbsp;Tech Stack
+###  Tech Stack 🛠 &nbsp;
 
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
