@@ -38,38 +38,38 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 #### Get in touch
 
-[![Website](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
-[![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github)](https://github.com/ShazidMashrafi)
+[![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=9cf)](https://shazidmashrafi.com)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
+[![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github&color=black&logoColor=white)](https://github.com/ShazidMashrafi)
 
 <div/>
 
 #### My Blogs and Writing on
 
-[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger)](https://shazidmashrafi.blogspot.com/)
-[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)](https://dev.to/shazidmashrafi)
-[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)](https://hashnode.com/@shazidmashrafi)
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&color=black&logoColor=orange)](https://shazidmashrafi.blogspot.com/)
+[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black&logoColor=white)](https://dev.to/shazidmashrafi)
+[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode&color=black&logoColor=blue)](https://hashnode.com/@shazidmashrafi)
 
 <div/>
 
 #### My Socials
 
-[![Facebook](https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook)](https://www.facebook.com/shazidmashrafi)
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter)](https://twitter.com/shazidmashrafi)
-[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram)](https://www.instagram.com/shazidmashrafi)
+[![Facebook](https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook&color=black&logoColor=blue)](https://www.facebook.com/shazidmashrafi)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter&color=black&logoColor=blue)](https://twitter.com/shazidmashrafi)
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=black&logoColor=red)](https://www.instagram.com/shazidmashrafi)
 
 <div/>
 
 #### Coding life
 
-[![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&color=&logo=wakatime)](https://wakatime.com/@shazidmashrafi)
-[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&color=Leetcode&logo=leetcode)](https://leetcode.com/shazidmashrafi/)
+[![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
+[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi/)
 
 <div/>
 
 #### Contact me on
 
-[![Email](https://img.shields.io/static/v1?label=&message=Email+me&color=&logo=gmail)](mailto:shazidmashrafi@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=&logo=telegram)](https://t.me/shazidmashrafi)
+[![Email](https://img.shields.io/static/v1?label=&message=Email+me&logo=gmail&color=black&logoColor=red)](mailto:shazidmashrafi@gmail.com)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&logo=telegram&color=black&logoColor=blue)](https://t.me/shazidmashrafi)
 
 </div>
