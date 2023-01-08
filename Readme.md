@@ -18,6 +18,10 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhansunny&theme=github_dark)
+
 ### Find me on:
 - [My website](https://shazidmashrafi.com)
 - [Linkedin](https://www.linkedin.com/in/shazidmashrafi)
