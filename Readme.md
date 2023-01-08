@@ -2,8 +2,6 @@
 
 My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
-
 ##  Tech Stack 🛠 &nbsp; :
 
 <img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
@@ -33,9 +31,12 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 
 ### Net coding time
-[![watime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
+[![Wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg&custom_title=Net+coding+time)](https://wakatime.com/@shazidmashrafi)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 <div align="center">
 
 </div>
