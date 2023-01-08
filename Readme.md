@@ -36,7 +36,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div align="center">
 
-#### More about me on
+#### Get in touch
 
 [![Website](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
@@ -46,7 +46,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 #### My Blogs and Writing on
 
-[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&logoColor=lightgray)](https://shazidmashrafi.blogspot.com/)
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger)](https://shazidmashrafi.blogspot.com/)
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)](https://dev.to/shazidmashrafi)
 [![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)](https://hashnode.com/@shazidmashrafi)
 
@@ -60,8 +60,14 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
-</div>
+#### Coding life
 
-![Twitter Follow](https://img.shields.io/twitter/follow/shazidmashrafi?color=inactive&label=Twitter&logoColor=inactive)
+[![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&color=&logo=wakatime)](https://wakatime.com/@shazidmashrafi)
+[![Leetcode](https://img.shields.io/static/v1?label=&message=&color=Leetcode&logo=leetcode)](https://leetcode.com/shazidmashrafi/)
+
+<div/>
+
+#### Contact me on
+[![Email](https://img.shields.io/static/v1?label=&message=Email+me&color=&logo=gmail)](mailto:shazidmashrafi@gmail.com)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=&logo=telegram)](https://t.me/shazidmashrafi)
+</div>
