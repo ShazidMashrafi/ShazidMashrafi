@@ -46,9 +46,9 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### My Blogs and Writing on
 
-[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger)]()
-[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)]()
-[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)]()
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&logoColor=inactive)](https://shazidmashrafi.blogspot.com/)
+[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)](https://dev.to/shazidmashrafi)
+[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)](https://hashnode.com/@shazidmashrafi)
 
 <div/>
 
@@ -59,3 +59,4 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
 </div>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/shazidmashrafi?color=inactive&label=Twitter&logoColor=inactive)
