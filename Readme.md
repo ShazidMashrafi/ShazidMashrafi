@@ -31,13 +31,13 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=transparent)
 
 ### Streak
 
 <br>
 <p href="https://github.com/ShazidMashrafi/ShazidMashrafi">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShazidMashrafi&theme=dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShazidMashrafi&theme=transparent&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </p>
 </br>
 
