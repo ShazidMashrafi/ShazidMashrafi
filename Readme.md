@@ -20,15 +20,12 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## Stats
-
-<br>
 <a href="https://github.com/ShazidMashrafi/ShazidMashrafi">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&custom_title=Github&show_icons=true&theme=github_dark&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
 </a>
 <a href="https://wakatime.com/@shazidmashrafi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </a>
-</br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&custom_title=GitHub+Analytics&theme=github_dark)
 
