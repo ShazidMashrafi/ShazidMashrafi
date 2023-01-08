@@ -31,15 +31,11 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=transparent&hide_border=true)
 
 ### Streak
 
-<br>
-<p href="https://github.com/ShazidMashrafi/ShazidMashrafi">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShazidMashrafi&theme=transparent&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
-</p>
-</br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=transparent&hide_border=true)
 
 ### Net coding time
 [![watime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
