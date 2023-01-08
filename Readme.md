@@ -37,9 +37,20 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <div align="center">
 
 ### Get in touch
-[![](https://img.shields.io/static/v1?label=&message=My+Website&color=brightgreen)](https://shazidmashrafi.com)
+<div>
+
+[![](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
+[![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
+[![](https://img.shields.io/static/v1?label=&message=Github&logo=github)](https://github.com/ShazidMashrafi)
+
+</div>
+
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=+&logo=github)](https://github.com/ShazidMashrafi)
+[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 ![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
 </div>
