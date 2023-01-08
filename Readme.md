@@ -9,6 +9,8 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/coding.gif" align="right"/>
+
 ### Find me on:
 - [My website](https://shazidmashrafi.com)
 - [Linkedin](https://www.linkedin.com/in/shazidmashrafi)
