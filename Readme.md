@@ -20,7 +20,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhansunny&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&theme=github_dark)
 
 ### Find me on:
 - [My website](https://shazidmashrafi.com)
