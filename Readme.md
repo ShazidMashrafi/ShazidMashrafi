@@ -6,7 +6,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ##  Tech Stack 🛠 &nbsp; :
 
-![Coding](https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif)
+<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
 
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -35,7 +35,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ### Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=transparent&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=&hide_border=true)
 
 ### Net coding time
 [![watime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
