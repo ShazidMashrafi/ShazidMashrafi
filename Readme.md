@@ -68,6 +68,8 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <div/>
 
 #### Contact me on
+
 [![Email](https://img.shields.io/static/v1?label=&message=Email+me&color=&logo=gmail)](mailto:shazidmashrafi@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=&logo=telegram)](https://t.me/shazidmashrafi)
+
 </div>
