@@ -25,7 +25,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ![Analytics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&custom_title=GitHub+Analytics&theme=github_dark&hide_border=true)
 
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ShazidMashrafi&theme=github-compact&hide_border=true)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ShazidMashrafi&custom_title=Activty%20Graph&theme=github-compact&hide_border=true)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&hide_border=true)](https://wakatime.com/@shazidmashrafi)
 
