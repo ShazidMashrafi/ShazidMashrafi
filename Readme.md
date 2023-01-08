@@ -31,7 +31,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 
 ### Net coding time
-[![Wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg&custom_title=Net+coding+time)](https://wakatime.com/@shazidmashrafi)
+[![Wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 <!--START_SECTION:waka-->
