@@ -6,7 +6,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ##  Tech Stack 🛠 &nbsp; :
 
-<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
+![Coding](https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif)
 
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
