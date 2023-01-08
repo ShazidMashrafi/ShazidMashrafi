@@ -22,11 +22,11 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&theme=github_dark)
 
-## Stats
+### Stats
 
 <br>
 <a href="https://github.com/ShazidMashrafi/ShazidMashrafi">
@@ -37,10 +37,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 </a>
 </br>
 
-### Net coding time
-[![wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
-
-## Languages
+### Languages
 
 <br>
 <a href="https://github.com/ShazidMashrafi/ShazidMashrafi">
@@ -48,13 +45,16 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 </a>
 </br>
 
-## Streak
+### Streak
 
 <br>
 <p href="https://github.com/ShazidMashrafi/ShazidMashrafi">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShazidMashrafi&theme=dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </p>
 </br>
+
+### Net coding time
+[![wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
