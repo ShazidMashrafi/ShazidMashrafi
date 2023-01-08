@@ -1,8 +1,8 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/waving-hand.gif" width="30px" height="30px" />
 
 My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 
 ##  Tech Stack 🛠 &nbsp; :
 
@@ -22,8 +22,6 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ## Stats &#x1f4ca; :
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=transparent&hide_rank=false&hide_border=true&count_private=true)
-
-![Analytics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&custom_title=Analytics&theme=dark&hide_border=true)
 
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true)
 
