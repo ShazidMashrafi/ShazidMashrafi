@@ -36,7 +36,9 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div align="center">
 
+## Get in touch
 [![Website](https://img.shields.io/badge/Website-Shazidmashrafi-brightgreen)](https://shazidmashrafi.com)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
