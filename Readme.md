@@ -4,7 +4,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 
 
-###  Tech Stack 🛠 &nbsp;
+###  Tech Stack 🛠 &nbsp; :
 
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -19,7 +19,8 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Stats
+## Stats &#x1f4ca; :
+
 <a href="https://github.com/ShazidMashrafi/ShazidMashrafi">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&custom_title=Github&show_icons=true&theme=github_dark&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
 </a>
