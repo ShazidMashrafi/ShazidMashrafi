@@ -38,7 +38,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 #### Get in touch
 
-[![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=9cf)](https://shazidmashrafi.com)
+[![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
 [![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github&color=black&logoColor=white)](https://github.com/ShazidMashrafi)
 
@@ -47,7 +47,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 #### My Blogs and Writing on
 
 [![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&color=black&logoColor=orange)](https://shazidmashrafi.blogspot.com/)
-[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black&logoColor=white)](https://dev.to/shazidmashrafi)
+[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black)](https://dev.to/shazidmashrafi)
 [![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode&color=black&logoColor=blue)](https://hashnode.com/@shazidmashrafi)
 
 <div/>
