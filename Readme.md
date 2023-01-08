@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/waving-hand.gif" width="30px" height="30px" />
 
 My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShazidMashrafi" alt="" /> </p>
 ### Find me on:
 - [My website](https://shazidmashrafi.com)
 - [Linkedin](https://www.linkedin.com/in/shazidmashrafi)
