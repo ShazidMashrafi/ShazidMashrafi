@@ -36,18 +36,22 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div align="center">
 
-### Get in touch
-<div>
+### More about me on
 
-[![](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
-[![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
-[![](https://img.shields.io/static/v1?label=&message=Github&logo=github)](https://github.com/ShazidMashrafi)
+[![Website](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
+[![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github)](https://github.com/ShazidMashrafi)
 
-</div>
+<div/>
 
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+### My Blogs and Writing on
+
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger)]()
+[![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)]()
+[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)]()
+
+<div/>
+
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
