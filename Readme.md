@@ -11,6 +11,13 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/coding.gif" align="right"/>
 
+##### Editor & IDE
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+##### Other tools
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 ### Find me on:
 - [My website](https://shazidmashrafi.com)
 - [Linkedin](https://www.linkedin.com/in/shazidmashrafi)
