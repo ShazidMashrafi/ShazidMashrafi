@@ -30,7 +30,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shazidmashrafi&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <a href="https://wakatime.com/@shazidmashrafi">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShazidMashrafi&custom_title=Wakatime(Last+7+days)&layout=compact&theme=github_dark&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </a>
 
 ### Languages
@@ -52,5 +52,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ### Net coding time
 [![wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
 
-<!-- Resources -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+
+<div align="center">
+
+</div>
