@@ -37,6 +37,8 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 </a>
 </br>
 
+[![All time coding time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
+
 ## Languages
 
 <br>
