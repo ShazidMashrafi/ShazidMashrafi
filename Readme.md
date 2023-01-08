@@ -21,13 +21,13 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ## Stats &#x1f4ca; :
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=transparent&hide_rank=false&hide_border=true&count_private=true&title_color=ffffff&text_color=c9cacc)
+![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=transparent&hide_rank=false&hide_border=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=#6cc644)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=comapct&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9cacc)
 
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true&title_color=ffffff&text_color=c9cacc)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=&hide_border=true&)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=&hide_border=true&title_color=ffffff&text_color=c9cacc)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Wakatime+(Last+7+days)&layout=compact&theme=transparent&hide_rank=false&hide_border=true&title_color=ffffff&text_color=c9cacc)](https://wakatime.com/@shazidmashrafi)
 
