@@ -42,7 +42,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 </br>
 
 ### Net coding time
-[![wakatime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
+[![watime](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@0a6e89fc-213a-4372-a2b6-d3df86fce603)
 
 
 <div align="center">
