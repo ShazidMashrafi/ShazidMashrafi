@@ -36,7 +36,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div align="center">
 
-### More about me on
+#### More about me on
 
 [![Website](https://img.shields.io/static/v1?label=&message=My+Website)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin)](https://www.linkedin.com/in/shazidmashrafi)
@@ -44,17 +44,22 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-### My Blogs and Writing on
+#### My Blogs and Writing on
 
-[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&logoColor=inactive)](https://shazidmashrafi.blogspot.com/)
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&logoColor=lightgray)](https://shazidmashrafi.blogspot.com/)
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto)](https://dev.to/shazidmashrafi)
 [![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode)](https://hashnode.com/@shazidmashrafi)
 
 <div/>
 
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
+#### My Socials
+
+[![Facebook](https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook)](https://www.facebook.com/shazidmashrafi)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter)](https://twitter.com/shazidmashrafi)
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram)](https://www.instagram.com/shazidmashrafi)
+
+<div/>
+
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 ![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
 </div>
