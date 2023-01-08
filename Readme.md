@@ -26,26 +26,6 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShazidMashrafi&theme=github_dark)
 
-### Find me on:
-- [My website](https://shazidmashrafi.com)
-- [Linkedin](https://www.linkedin.com/in/shazidmashrafi)
-- [Twitter](https://twitter.com/shazidmashrafi)
-
-### Programming 👨‍💻:
-- [Wakatime](https://wakatime.com/@shazidmashrafi)
-- [Leetcode](https://leetcode.com/shazidmashrafi)
-
-### Blogs and Writing ✍️:
-- [My Blogsite](https://shazidmashrafi.blogspot.com)
-- [Hashnode](https://hashnode.com/@shazidmashrafi)
-- [Dev.to](https://dev.to/shazidmashrafi)
-
-### Get in touch:
-- [Email me](mailto:shazidmashrafi@gmail.com)
-- [Telegram](https://t.me/shazidmashrafi)
-
-### All my accounts [here](https://allmylinks.com/shazidmashrafi)
-
 ## Stats
 
 <br>
