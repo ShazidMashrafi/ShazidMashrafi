@@ -39,7 +39,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ### Get in touch
 [![](https://img.shields.io/static/v1?label=&message=My+Website&color=brightgreen)](https://shazidmashrafi.com)
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
-[![](https://img.shields.io/static/v1?label=&message=&logo=github)](https://github.com/ShazidMashrafi)
+[![](https://img.shields.io/static/v1?label=&message=.&logo=github)](https://github.com/ShazidMashrafi)
 [![](https://img.shields.io/static/v1?label=&message=&color=&logo=)]()
 ![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi)
 </div>
