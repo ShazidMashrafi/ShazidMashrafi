@@ -38,7 +38,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 #### Get in touch
 
-[![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com)
+[![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com){target="_blank"}
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
 [![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github&color=black&logoColor=white)](https://github.com/ShazidMashrafi)
 
