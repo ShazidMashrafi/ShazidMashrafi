@@ -44,7 +44,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-#### My Blogs and Writing on
+#### My writings
 
 [![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&color=black&logoColor=orange)](http://blog.shazidmashrafi.com)
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black)](https://dev.to/shazidmashrafi)
@@ -52,7 +52,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-#### My Socials
+#### My socials
 
 [![Facebook](https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook&color=black&logoColor=blue)](https://www.facebook.com/shazidmashrafi)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter&color=black&logoColor=blue)](https://twitter.com/shazidmashrafi)
@@ -60,10 +60,12 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-#### Coding life
+#### Programming life
 
 [![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
-[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi/)
+[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
+[![Hacker](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank&color=black&logoColor=green)](https://www.hackerrank.com/shazidmashrafi)
+[![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
 
 <div/>
 
