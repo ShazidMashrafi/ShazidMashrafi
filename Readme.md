@@ -36,7 +36,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div align="center">
 
-#### Get in touch
+## Get in touch
 
 [![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
