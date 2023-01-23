@@ -46,9 +46,9 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 #### My Blogs and Writing on
 
-[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&color=black&logoColor=orange)](https://shazidmashrafi.blogspot.com/)
+[![Blogger](https://img.shields.io/static/v1?label=&message=Blogger&logo=blogger&color=black&logoColor=orange)](http://blogger.shazidmashrafi.com)
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black)](https://dev.to/shazidmashrafi)
-[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode&color=black&logoColor=blue)](https://hashnode.com/@shazidmashrafi)
+[![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode&color=black&logoColor=blue)](http://blog.shazidmashrafi.com/)
 
 <div/>
 
