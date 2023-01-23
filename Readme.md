@@ -64,7 +64,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 [![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
 [![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
-[![Hacker](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank)](https://www.hackerrank.com/shazidmashrafi)
+[![Hacker](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank&color=black&logoColor=white)](https://www.hackerrank.com/shazidmashrafi)
 [![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
 
 <div/>
