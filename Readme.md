@@ -25,7 +25,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 [![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true)](https://github.com/ShazidMashrafi)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShazidMashrafi&theme=github-dark&hide_border=true)](https://github.com/ShazidMashrafi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true)](https://github.com/ShazidMashrafi)
 
 ## Time spend coding
 [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
