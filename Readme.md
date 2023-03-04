@@ -60,7 +60,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 <div/>
 
-#### Programming life
+#### Programming
 
 [![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
 [![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
