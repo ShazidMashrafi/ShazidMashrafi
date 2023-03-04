@@ -63,12 +63,18 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 #### Programming life
 
 [![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
-[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
-[![Hackerrank](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank&color=black&logoColor=white)](https://www.hackerrank.com/shazidmashrafi)
-[![Codeforces](https://img.shields.io/static/v1?label=&message=Codeforces&logo=codeforces&color=black&logoColor=white)](https://codeforces.com/profile/shazid456)
-[![Beecrowd](https://img.shields.io/static/v1?label=&message=Beecrowd&color=black&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/790252)
-[![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
 
+[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
+
+[![Codeforces](https://img.shields.io/static/v1?label=&message=Codeforces&logo=codeforces&color=black&logoColor=white)](https://codeforces.com/profile/shazid456)
+
+[![Beecrowd](https://img.shields.io/static/v1?label=&message=Beecrowd&color=black&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/790252)
+
+[![Hackerrank](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank&color=black&logoColor=white)](https://www.hackerrank.com/shazidmashrafi)
+
+[![LightOJ](https://img.shields.io/static/v1?label=&message=LightOJ&color=black&logoColor=blueviolet)](https://lightoj.com/user/shazidmashrafi)
+
+[![Stopstalk](https://img.shields.io/static/v1?label=&message=Stopstalk&logo=stopstalk&color=black&logoColor=white)](https://www.stopstalk.com/user/profile/ShazidMashrafi)
 <div/>
 
 #### Contact me on
