@@ -7,16 +7,16 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
 
 ##### Languages
-![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-333333?logo=C)
+![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
 
 ##### Editor & IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?logo=visual-studio-code&logoColor=007ACC)
 
 
 ##### Other tools
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github)
 
 ## Stats &#x1f4ca; :
 
