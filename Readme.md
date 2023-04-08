@@ -7,7 +7,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
 
 ##### Languages
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus)
 
 ##### Editor & IDE
