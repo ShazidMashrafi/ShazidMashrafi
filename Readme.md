@@ -20,7 +20,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 ## Stats &#x1f4ca; :
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=false&hide_border=true&count_private=true)](https://github.com/ShazidMashrafi)
+[![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true)](https://github.com/ShazidMashrafi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&theme=dark&hide_border=true)](https://github.com/ShazidMashrafi)
 
