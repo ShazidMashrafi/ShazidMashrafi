@@ -2,6 +2,7 @@
 
 My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaing my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
 
+
 ##  Tech Stack 🛠 &nbsp; :
 
 <img alt="Coding" width="30%" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/coding.gif" align="right"/>
@@ -18,6 +19,9 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ![Git](https://img.shields.io/badge/-Git-333333?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github)
 
+<details>
+<summary>Show Github Stats &#128064;</summary>
+
 ## Stats &#x1f4ca; :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true)](https://github.com/ShazidMashrafi)
@@ -29,11 +33,11 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true)](https://github.com/ShazidMashrafi)
 
 ## Time spend coding
-[![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
+&ensp;&ensp; [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
 
 [![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Detailed+time&theme=dark&hide_rank=false&hide_border=true)](https://wakatime.com/@shazidmashrafi)
 
-
+</details>
 
 <div align="center">
 
