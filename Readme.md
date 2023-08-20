@@ -82,7 +82,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 <div/>
 
 #### Contact me on 
-
+ 
 [![Email](https://img.shields.io/static/v1?label=&message=Email+me&logo=gmail&color=black&logoColor=red)](mailto:shazidmashrafi@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&logo=telegram&color=black&logoColor=blue)](https://t.me/shazidmashrafi)
 
