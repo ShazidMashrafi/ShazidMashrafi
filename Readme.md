@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/waving-hand.gif" width="30px" height="30px" />
 
-My name is Shazid Mashrafi. I'm a student who is currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaining my student life. I am also writing blogs in my free time. I'm from Mymensingh,Bangladesh.
+My name is Shazid Mashrafi. I'm a student, currently studying Computer Science and Engineering. I'm trying to grow my programming skills while maintaining my student life. I also try to write blogs in my free time. I'm from Mymensingh, Bangladesh.
 
 
 ##  Tech Stack 🛠 &nbsp; :
@@ -10,6 +10,7 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333333?logo=python)
 
 ##### Editor & IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?logo=visual-studio-code&logoColor=007ACC)
@@ -47,7 +48,6 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 
 [![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
-[![Github](https://img.shields.io/static/v1?label=&message=Github&logo=github&color=black&logoColor=white)](https://github.com/ShazidMashrafi)
 
 <div/>
 
@@ -70,20 +70,16 @@ My name is Shazid Mashrafi. I'm a student who is currently studying Computer Sci
 #### Programming
 
 [![Wakatime](https://img.shields.io/static/v1?label=&message=Wakatime&logo=wakatime&color=black&logoColor=green)](https://wakatime.com/@shazidmashrafi)
-[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
-[![Codeforces](https://img.shields.io/static/v1?label=&message=Codeforces&logo=codeforces&color=black&logoColor=white)](https://codeforces.com/profile/shazid456)
-[![Beecrowd](https://img.shields.io/static/v1?label=&message=Beecrowd&color=black&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/790252)
-[![Hackerrank](https://img.shields.io/static/v1?label=&message=Hackerrank&logo=hackerrank&color=black&logoColor=white)](https://www.hackerrank.com/shazidmashrafi)
-[![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
-[![Hackerearth](https://img.shields.io/static/v1?label=&message=Hackerearth&logo=hackerearth&color=black&logoColor=lightgrey)](https://www.hackerearth.com/@shazidmashrafi)
-[![LightOJ](https://img.shields.io/static/v1?label=&message=LightOJ&color=black&logoColor=blueviolet)](https://lightoj.com/user/shazidmashrafi)
 [![Stopstalk](https://img.shields.io/static/v1?label=&message=Stopstalk&logo=stopstalk&color=black&logoColor=white)](https://www.stopstalk.com/user/profile/ShazidMashrafi)
+[![Codeforces](https://img.shields.io/static/v1?label=&message=Codeforces&logo=codeforces&color=black&logoColor=white)](https://codeforces.com/profile/ShazidMashrafi)
+[![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
+[![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
 
 <div/>
 
 #### Contact me on 
  
-[![Email](https://img.shields.io/static/v1?label=&message=Email+me&logo=gmail&color=black&logoColor=red)](mailto:shazidmashrafi@gmail.com)
+[![Email](https://img.shields.io/static/v1?label=&message=Email&logo=gmail&color=black&logoColor=red)](mailto:shazidmashrafi@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&logo=telegram&color=black&logoColor=blue)](https://t.me/shazidmashrafi)
 
 </div>
