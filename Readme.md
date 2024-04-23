@@ -11,6 +11,7 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 ![C](https://img.shields.io/badge/-C-333333?logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-333333?logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?logo=openjdk)
 
 ##### Editor & IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?logo=visual-studio-code&logoColor=007ACC)
