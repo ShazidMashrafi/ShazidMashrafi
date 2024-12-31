@@ -22,22 +22,43 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github)
 
 <details>
-<summary>Show Github Stats &#128064;</summary>
+<summary>Show Stats &#128064;</summary>
 
-## Stats &#x1f4ca; :
+#### Stats &#x1f4ca; :
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true)](https://github.com/ShazidMashrafi)
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/ShazidMashrafi">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true" alt="Stats"/>
+  </a>
+  <a href="https://github.com/ShazidMashrafi">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&theme=dark&hide_border=true" alt="Top Langs"/>
+  </a>
+  <a href="https://github.com/ShazidMashrafi">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&theme=dark&hide_border=true)](https://github.com/ShazidMashrafi)
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/ShazidMashrafi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true" alt="Activity graph"/>
+  </a>
+</div>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true)](https://github.com/ShazidMashrafi)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true)](https://github.com/ShazidMashrafi)
+#### 📊 Competitive Programming Stats:
+<div style="display: flex; flex-direction: row;">
+  <a href="https://codeforces.com/profile/ShazidMashrafi">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true&border_color=404040" alt="ShazidMashrafi Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/u/ShazidMashrafi/">
+    <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="ShazidMashrafi Leetcode Stats"/>
+  </a>
+</div>
 
 ## Time spend coding
 &ensp;&ensp; [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
 
-[![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Detailed+time&theme=dark&hide_border=true)](https://wakatime.com/@shazidmashrafi)
+[![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=ShazidMashrafi&custom_title=Detailed+time&theme=dark&hide_border=true&layout=compact&langs_count=6)](https://wakatime.com/@shazidmashrafi)
 
 </details>
 
