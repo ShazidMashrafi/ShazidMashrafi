@@ -51,12 +51,12 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
   <tr style="border: none;">
     <td style="border: none;">
       <a href="https://codeforces.com/profile/ShazidMashrafi">
-        <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true&border_color=404040" alt="ShazidMashrafi Codeforces Stats"/>
+        <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark" alt="ShazidMashrafi Codeforces Stats"/>
       </a>
     </td>
     <td style="border: none;">
       <a href="https://leetcode.com/u/ShazidMashrafi/">
-        <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="ShazidMashrafi Leetcode Stats"/>
+        <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi&theme=dark" alt="ShazidMashrafi Leetcode Stats"/>
       </a>
     </td>
   </tr>
