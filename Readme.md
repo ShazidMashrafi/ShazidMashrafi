@@ -26,41 +26,16 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 
 ### Stats &#x1f4ca; :
 
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/ShazidMashrafi">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true" alt="Stats"/>
-  </a>
-  <a href="https://github.com/ShazidMashrafi">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&theme=dark&hide_border=true" alt="Top Langs"/>
-  </a>
-  <a href="https://github.com/ShazidMashrafi">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=shazidMashrafi&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true)](https://github.com/ShazidMashrafi)
 
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/ShazidMashrafi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true" alt="Activity graph"/>
-  </a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shazidmashrafi&theme=github-dark&hide_border=true)](https://github.com/ShazidMashrafi)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShazidMashrafi&custom_title=Activty&theme=github-compact&hide_border=true)](https://github.com/ShazidMashrafi)
 
 
-### 📊 Competitive Programming Stats:
-### 📊 Competitive Programming Stats:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://codeforces.com/profile/ShazidMashrafi">
-        <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark" alt="ShazidMashrafi Codeforces Stats"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://leetcode.com/u/ShazidMashrafi/">
-        <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi&theme=dark" alt="ShazidMashrafi Leetcode Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### Programming Stats:
+[![ShazidMashrafi Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true)](https://codeforces.com/profile/ShazidMashrafi)
+[![ShazidMashrafi Leetcode Stats](https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/ShazidMashrafi/)
 
 ## Time spend coding
 &ensp;&ensp; [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
@@ -69,7 +44,7 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 
 </details>
 
-<div align="center">
+<br>
 
 ![Profile view count](https://komarev.com/ghpvc/?username=ShazidMashrafi&style=flat-square)  
 
@@ -78,7 +53,6 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 [![Website](https://img.shields.io/static/v1?label=&message=My+Website&color=black&logoColor=white)](https://shazidmashrafi.com)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&color=black&logoColor=blue)](https://www.linkedin.com/in/shazidmashrafi)
 
-<div/>
 
 #### My writings
 
@@ -86,7 +60,6 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 [![Dev.to](https://img.shields.io/static/v1?label=&message=Dev.to&logo=devdotto&color=black)](https://dev.to/shazidmashrafi)
 [![Hashnode](https://img.shields.io/static/v1?label=&message=Hashnode&logo=hashnode&color=black&logoColor=blue)](https://shazidmashrafi.hashnode.dev)
 
-<div/>
 
 #### My socials
 
@@ -94,7 +67,6 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter&color=black&logoColor=blue)](https://twitter.com/shazidmashrafi)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=black&logoColor=red)](https://www.instagram.com/shazidmashrafi)
 
-<div/>
 
 #### Programming
 
@@ -104,11 +76,8 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 [![Leetcode](https://img.shields.io/static/v1?label=&message=Leetcode&logo=leetcode&color=black&logoColor=orange)](https://leetcode.com/shazidmashrafi)
 [![Codechef](https://img.shields.io/static/v1?label=&message=Codechef&logo=codechef&color=black&logoColor=yellowgreen)](https://www.codechef.com/users/shazidmashrafi)
 
-<div/>
 
 #### Contact me on 
  
 [![Email](https://img.shields.io/static/v1?label=&message=Email&logo=gmail&color=black&logoColor=red)](mailto:shazidmashrafi@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&logo=telegram&color=black&logoColor=blue)](https://t.me/shazidmashrafi)
-
-</div>
