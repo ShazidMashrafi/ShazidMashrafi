@@ -46,20 +46,14 @@ My name is Shazid Mashrafi. I'm a student, currently studying Computer Science a
 
 
 ### 📊 Competitive Programming Stats:
-<table>
-  <tr>
-    <td>
-      <a href="https://codeforces.com/profile/ShazidMashrafi">
-        <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true&border_color=404040" alt="ShazidMashrafi Codeforces Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/ShazidMashrafi/">
-        <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="ShazidMashrafi Leetcode Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://codeforces.com/profile/ShazidMashrafi">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true&border_color=404040" alt="ShazidMashrafi Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/u/ShazidMashrafi/">
+    <img height="316" src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="ShazidMashrafi Leetcode Stats"/>
+  </a>
+</div>
 
 ## Time spend coding
 &ensp;&ensp; [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@shazidmashrafi)
