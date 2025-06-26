@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/My%20cover.png" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/My-cover.png" alt="Banner" width="100%"/>
 
 # Hello there! I'm Shazid Mashrafi <img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/waving-hand.gif" width="30px" height="30px" />
 
