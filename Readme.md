@@ -103,8 +103,8 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShazidMashrafi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazidMashrafi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
@@ -112,7 +112,11 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShazidMashrafi&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
