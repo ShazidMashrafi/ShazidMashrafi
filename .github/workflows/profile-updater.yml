@@ -1,4 +1,4 @@
-name: Generate Profile Metrics and Snake
+name: Generate Profile Summary Cards
 
 on:
   schedule:
@@ -19,21 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generates a snake game from a github user contributions graph and output SVG animations
-      - name: Generate Contribution Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Deploy the output files to the "output" branch
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "output"
+          UTC_OFFSET: 6
+          AUTO_CREATE_BRANCH: true
 
