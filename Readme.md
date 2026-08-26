@@ -8,45 +8,45 @@
     Hi, I'm <a href="https://shazidmashrafi.com">Shazid Mashrafi</a> <img src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/Assets/waving-hand.gif" width="30px" height="30px" alt="Wave" />
   </h1>
 
-  <p align="center">
+  <p>
     <b>CSE Student @ JKKNIU</b> &bull; <b>Competitive Programmer</b> &bull; <b>Tech Enthusiast</b>
   </p>
 
-  <p align="center">
+  <p>
     📍 Mymensingh, Bangladesh
   </p>
 
-  <p align="center">
-    <a href="https://shazidmashrafi.com"><img src="https://img.shields.io/badge/Website-shazidmashrafi.com-0D1117?style=flat-square&logo=googlechrome&logoColor=0070F3" alt="Website"/></a>
-    <a href="https://linkedin.com/in/shazidmashrafi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
-    <a href="mailto:shazidmashrafi@gmail.com"><img src="https://img.shields.io/badge/Email-shazidmashrafi@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <p>
+    <a href="https://shazidmashrafi.com"><b>Website</b></a> &nbsp;&bull;&nbsp;
+    <a href="https://linkedin.com/in/shazidmashrafi"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
+    <a href="mailto:shazidmashrafi@gmail.com"><b>Email</b></a>
   </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/ICPC_Regionalist-2x_Finalist_('24,_'25)-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="ICPC 2x"/>
-    <img src="https://img.shields.io/badge/IUPC_Competitor-5x_Contests-0D1117?style=flat-square&logo=codeforces&logoColor=008080" alt="IUPC 5x"/>
-    <img src="https://img.shields.io/badge/Codeforces-Specialist-0D1117?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="CF Specialist"/>
-    <img src="https://img.shields.io/badge/Problems_Solved-1200+-0D1117?style=flat-square&logo=leetcode&logoColor=28A745" alt="1200+ Solved"/>
-    <img src="https://img.shields.io/badge/CTF_Onsite-2x_Top_15-0D1117?style=flat-square&logo=hackthebox&logoColor=6F42C1" alt="CTF"/>
+  <p>
+    <code>ICPC 2x Finalist ('24, '25)</code> &nbsp;&bull;&nbsp;
+    <code>IUPC 5x Competitor</code> &nbsp;&bull;&nbsp;
+    <code>Codeforces Specialist</code> &nbsp;&bull;&nbsp;
+    <code>1200+ Solved</code> &nbsp;&bull;&nbsp;
+    <code>CTF 2x Top 15</code>
   </p>
 
 </div>
 
 ---
 
-### About Me
+<h2 align="center">About Me</h2>
 
 I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)**, Bangladesh. I am passionate about competitive programming, building reliable systems, and exploring modern computing technologies.
 
-- 🎓 **Education:** B.Sc. in Computer Science and Engineering at [JKKNIU](https://jkkniu.edu.bd) (2023 – Present)
-- 🏆 **Competitive Programming:** **Codeforces Specialist**, 2x ACM-ICPC Regional Finalist (Dhaka 2024 & 2025), and 5x IUPC participant with **1200+** solved problems across online judges.
-- 🛡️ **Cybersecurity:** National Onsite CTF Finalist (UAP Cyber Siege 2025, BUP CTF 2025).
-- 💻 **Engineering & Systems:** Full-stack web architectures (Next.js, React, Node.js, Express, TypeScript, MongoDB), Linux contest lab automation, and system tooling.
-- 🌐 **Portfolio & Write-ups:** Explore my projects, contest write-ups, and technical notes at [shazidmashrafi.com](https://shazidmashrafi.com).
+- **Education:** B.Sc. in Computer Science and Engineering at [JKKNIU](https://jkkniu.edu.bd) (2023 – Present)
+- **Competitive Programming:** **Codeforces Specialist**, 2x ACM-ICPC Regional Finalist (Dhaka 2024 & 2025), and 5x IUPC participant with **1200+** solved problems across online judges.
+- **Cybersecurity:** National Onsite CTF Finalist (UAP Cyber Siege 2025, BUP CTF 2025).
+- **Engineering & Systems:** Full-stack web architectures (Next.js, React, Node.js, Express, TypeScript, MongoDB), Linux contest lab automation, and system tooling.
+- **Portfolio & Write-ups:** Explore my projects, contest write-ups, and technical notes at [shazidmashrafi.com](https://shazidmashrafi.com).
 
 ---
 
-### Tech Stack & Capabilities
+<h2 align="center">Tech Stack & Capabilities</h2>
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 ---
 
-### Competitive Programming & Milestones
+<h2 align="center">Competitive Programming & Milestones</h2>
 
 <div align="center">
 
@@ -84,7 +84,9 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 </div>
 
-#### Contest & Milestone Highlights
+<br/>
+
+### Contest & Milestone Highlights
 - **ICPC Asia Dhaka Regional Contest 2025 (BUBT)**
 - **ICPC Asia Dhaka Regional Contest 2024 (DIU)**
 - **Inter-University Programming Contests (IUPCs):**
@@ -99,7 +101,7 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 ---
 
-### GitHub Analytics
+<h2 align="center">GitHub & Coding Analytics</h2>
 
 <div align="center">
 
@@ -110,11 +112,17 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 <img src="https://streak-stats.demolab.com?user=ShazidMashrafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<br/><br/>
+
+<a href="https://wakatime.com/@shazidmashrafi">
+  <img src="https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg" alt="WakaTime Hours" />
+</a>
+
 </div>
 
 ---
 
-### Connect
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -125,6 +133,7 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 [![Dev.to](https://img.shields.io/badge/Dev.to-0D1117?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/shazidmashrafi)
 [![Hashnode](https://img.shields.io/badge/Hashnode-0D1117?style=flat-square&logo=hashnode&logoColor=2962FF)](https://shazidmashrafi.hashnode.dev)
 [![Blogger](https://img.shields.io/badge/Blogger-0D1117?style=flat-square&logo=blogger&logoColor=FF5722)](https://blog.shazidmashrafi.com)
+[![WakaTime](https://img.shields.io/badge/WakaTime-0D1117?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@shazidmashrafi)
 
 <br/><br/>
 
