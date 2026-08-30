@@ -105,8 +105,6 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
-<img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 <img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 <img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 
