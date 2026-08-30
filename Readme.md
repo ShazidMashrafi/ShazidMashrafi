@@ -76,10 +76,18 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 <br/><br/>
 
 <a href="https://codeforces.com/profile/ShazidMashrafi">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true" alt="Codeforces Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_light&force_username=true">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShazidMashrafi&theme=github_dark&force_username=true" alt="Codeforces Stats"/>
+  </picture>
 </a>
 <a href="https://leetcode.com/u/ShazidMashrafi">
-  <img src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest">
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=light&font=Fira%20Code&ext=contest">
+    <img src="https://leetcard.jacoblin.cool/ShazidMashrafi?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  </picture>
 </a>
 
 </div>
@@ -105,12 +113,24 @@ I am a Computer Science & Engineering undergraduate at **Jatiya Kabi Kazi Nazrul
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
-<img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/default/0-profile-details.svg">
+  <img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img height="180em" src="https://raw.githubusercontent.com/ShazidMashrafi/ShazidMashrafi/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ShazidMashrafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShazidMashrafi&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ShazidMashrafi&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=ShazidMashrafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
